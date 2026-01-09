@@ -1,0 +1,6 @@
+/datasets/
+/MIRAGE/
+__pycache__
+.env
+models
+train
